@@ -1,0 +1,1 @@
+console.log('ciao electron by js');
